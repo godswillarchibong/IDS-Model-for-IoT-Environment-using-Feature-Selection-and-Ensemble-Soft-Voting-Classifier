@@ -27,6 +27,7 @@ The proposed system follows the following pipeline:
 Two filter-based feature selection techniques were used:
   - Chi-Square
   - Mutual Information
+
 These techniques help reduce dimensionality by selecting the most relevant features for classification.
 
 3. Model Development
