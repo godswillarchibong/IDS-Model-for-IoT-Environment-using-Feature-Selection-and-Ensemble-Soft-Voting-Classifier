@@ -35,6 +35,7 @@ An ensemble soft voting classifier was developed using three machine learning al
   - Random Forest (RF)
   - Logistic Regression (LR)
   - Artificial Neural Network (ANN)
+
 The final prediction is obtained by combining the probabilities of all classifiers.
 
 4. Model Evaluation
