@@ -27,7 +27,6 @@ The proposed system follows the following pipeline:
 Two filter-based feature selection techniques were used:
   - Chi-Square
   - Mutual Information
-
   These techniques help reduce dimensionality by selecting the most relevant features for classification.
 
 3. Model Development
@@ -35,7 +34,6 @@ An ensemble soft voting classifier was developed using three machine learning al
   - Random Forest (RF)
   - Logistic Regression (LR)
   - Artificial Neural Network (ANN)
-
   The final prediction is obtained by combining the probabilities of all classifiers.
 
 4. Model Evaluation
